@@ -4,7 +4,8 @@ from tkinter import *
 from tkinter import ttk
 
 
-# https://github.com/
+# https://github.com/\\
+#hgkjfhg
 
 # respons = requests.get('https://api.github.com/')
 # respons2 = requests.get('https://google.com')
